@@ -4,7 +4,7 @@ Instruction for Too Cool For School Game.
 
 1. Open the following link: https://we.tl/t-Uts3JXLUwV
 
-2. click agree and download the zip folder.
+2. Click agree and download the zip folder.
 
 3. After the game folder is finished downloading, extract the game.
 
